@@ -13,7 +13,6 @@ class ProfilesController < ApplicationController
       else
         render action: :new
       end
-      
   end
   
   private
